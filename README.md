@@ -1,6 +1,6 @@
 ### Hello, world!✨
 
-My name is Larissa, but you can call me **Lali** :leaves:. I'm a passionate lifelong learner currently living in Curitiba/Brazil.
+My name is Larissa, but you can call me **Lali** :leaves:. I'm a passionate lifelong learner currently living in Santa Catarina/Brazil.
 
  🔭 I work at [Alura](https://www.alura.com.br/) helping students to achieve their bests results at learning;
  
